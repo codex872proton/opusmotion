@@ -1,0 +1,218 @@
+                        Project Tagboard/Senior Bowl
+                                  Overview
+
+
+Project Tagboard/Senior Bowl is a relatively unknown project in the history of
+Area 51 reconnaissance aircraft (U-2 and A-12). This project was Top Secret from
+its inception and during the Senior Bowl part of the project, there were less than
+100 personnel cleared to work on it.
+
+This article is written by someone who worked at Area 51 during 1964 thru 1968
+on the A-12’s Honeywell Inertial Navigation System (INS). The author has written
+an article on the role the Honeywell INS played in the A-12 Oxcart project titled
+“Honeywell INS: The untold Story”.
+
+Project Tagboard/Senior Bowl also used a Honeywell INS in both the drone and
+the mother ship. It is the author’s intent to make a brief description of the project
+and its mission, while at the same time focusing on the role the INS played in this
+project.
+
+I have asked Russ Buyse to help me in this endeavor, since he worked for
+Honeywell on this project during the last three years, at both Area 51 and Beale
+AFB. Russ solicited the help of Stan Moeschl who was the technical director
+during the early phases of Tagboard in the MD-21 configuration and subsequently
+as engineering section head in the B-52H phase.
+
+
+
+
+Page | 1
+                                     History
+
+Project Tagboard/Senior Bowl was the brain child of Lockheed’s Skunk Works’
+Kelly Johnson. It consisted of a drone (D-21) mated to a modified A-12 aircraft
+(M-21), the combination known as MD-21 (mother/daughter).
+
+The project was first conceived in 1962 when Lockheed’s Kelly Johnson got
+approval from the CIA to add two aircraft to the existing A-12 assembly line.
+Known as M-21’s, these aircraft were built with a second crew station for the
+Launch Control Officer (LCO) and structurally enhanced aft fuselage with a large
+dorsal pylon to carry the new drone atop the rear fuselage. When attached, the
+wingtips of the D-21 would have only six inches of clearance with the tops of the
+vertical stabilizers of the mother ship. This combination was known as the MD-21
+(mother/daughter).
+
+The new drone was relatively lightweight, had a low radar cross section (RCS) and
+used a Marquardt ramjet. Since ramjets are unable to function at sub-sonic
+speeds, it would have to be launched from the mother ship at supersonic speeds.
+
+The mission plan for the MD-21 combination was for the D-21 to be launched
+from the mother ship over the Pacific Missile Test Range at a point west of
+Hawaii. The drone would then fly its pre-programmed 3,000 nautical mile mission
+over China and return to a friendly area over the Pacific Ocean.
+Page | 2
+At the end of the mission, the D-21 was commanded to perform a controlled
+descent to a lower altitude, where it would jettison the payload hatch containing
+a special Hycon camera, its film, flight control computers and the Honeywell
+Inertial Navigation System (INS). The hatch would be lowered by parachute and
+retrieved in midair by a specially modified JC-130B Hercules aircraft. In the event
+it wasn’t caught in mid-air, it would be recovered from the water by awaiting
+ships. Once the hatch was ejected, the drone would self-destruct.
+
+The first MD-21 flight took place in December 1964. The purpose of this flight was
+to check the aerodynamic stability of the mated combination, the first operational
+flights did not occur until 1966.
+
+During 1966 there were four operational launches, but on the fourth launch on 30
+July 1966, the drone experienced an “unstart”, causing the drone to strike the
+back of the mother ship, causing it to pitch up and break apart in mid-flight. Both
+the pilot, Bill Park and the LCO, Ray Torick ejected successfully over the Pacific
+Ocean, however Ray Torick drowned before he could be rescued.
+
+Following that catastrophe, the drone was modified to be launched from a
+specially modified B-52H and re-labeled D-21B. A solid rocket booster under the
+drone, allowed it to reach supersonic speed to start the Marquardt ramjet.
+
+A significant change had to be made to the INS for the new mother ship, a B-52H.
+As the time between take-off of the MD-21 mother ship to the launch site was
+only one to two hours, there was no need to update the INS in the drone. Being
+launched from a B-52H created a whole different situation. The MD-21 could fly
+2000 miles in an hour. It took the B-52 three to four hours to cover that distance.
+As a result, it was necessary to improve the accuracy of the drone’s INS prior to
+launch. There was no GPS at that time, so the device to provide the needed
+accuracy had to reside in the B-52H. Honeywell modified the INS (H-330) system
+used in the A-12 to accomplish this task. The A-12 and B-52H systems were
+identical except the INS in the B-52H had a new computer and the platform was
+modified to install a star tracker that capped the position error to 1 NM at drone
+launch. A sensor was needed to interface the H-330M’s platform to the star
+tracker. That sensor was developed and manufactured by Kollsman.
+
+
+
+
+Page | 3
+                              Hatch components
+Inside the hatch were the avionics packages made by Honeywell. These included
+the Inertial Navigation System (INS), the Automatic Flight Control System (AFCS),
+and the Air Data Computer (ADC). These were installed within the hatch so they
+could take advantage of the same cooling system used for the payload, as well as
+be recovered with the hatch at the end of the mission. After the hatch was
+sealed, these systems were also tested via IFCO checks.
+
+The autopilot was a combination of digital and analog technology, all housed in a
+one-cubic-foot box with three line-replaceable units (LRUs)). One LRU controlled
+the roll and yaw, one controlled the pitch axis, and the other was a power supply
+for the in-flight checkout equipment. Due to the extreme lack of space and high
+vibration environment on the aircraft, new construction techniques were
+developed.       The autopilot utilized what was called “welded cordwood
+construction” because the resistors, capacitors and other pieces of equipment
+stood on end, resembling cordwood. The ends of these units were welded
+together and to the motherboard with a technique similar to a spot weld but
+without using solder. Maintenance proved to be exceptionally difficult because
+the units needing work had to be drilled out, the Mylar separators that held the
+devices in place had to be patched, and then the units being replaced had to be
+re-welded into position.
+
+The INS consisted of five different boxes, the platform, which contained the
+gimbals with three gyros and three accelerometers, a Power Supply which
+converted the drone’s power to power usable for the INS boxes, a new Computer
+which had a three inch magnetic drum with embedded integrated circuits, a
+Gimbal Drive box which moved the three gimbals to the correct orientation, and a
+Coupler which interfaced the INS with the other electronic boxes in the hatch, like
+the AFCS. The new INS computer used some of the same construction techniques
+used in the AFCS.
+
+A 24-inch focal length, F5.6 lens camera provided the D-21 reconnaissance
+capability. The camera could be operated in one of two modes. The first (Mode 3)
+allowed the camera to expose a photographic swath of 16 NM wide and 3,900
+NM in length. When operated in the second position (Mode 5), the camera will
+expose a swath 28 NM wide and 3,000 NM long. Design resolution was two feet
+
+
+Page | 4
+at nadir. In-flight data was recorded on the film consisting of latitude, longitude,
+time, oblique position, and exposure number.
+
+
+
+                               Mission description
+
+
+
+
+Once the B-52H was took off on a mission, it was totally out of the ground crew’s
+control. It was the Launch Control Officer (LCO’s) job to get the D-21B to its
+drop point accurately and exactly on time. The LCOs were able to perform IFCO
+checks while airborne and also had some manual control of the D-21B if needed.
+
+Any velocity or position errors would grow over time during the long flight and
+these had to be corrected prior to launch. For example, en route to an operational
+launch point in the northern part of the Sea of Japan or the South China Sea, a
+complex set of procedures had to be followed to update the D-21’s inertial system
+Page | 5
+in order for it to go its full mission distance. The velocity input was pulled off the
+B-52H. The BUFF would go through a series of U-type maneuvers, making three
+orthogonal (right-angle) turns in order to update the velocity and position
+parameters. The stellar systems were crude by today’s standards. The computer in
+the navigation system of the B-52H was comprised of magnetic drums
+programmed in their own assembly language. It was a 24-bit machine, limited in
+memory, and yet it had to store the entire sequence of tests for in-flight checkout
+because it was the only computer on board.
+
+After the final IFCO checks had been performed by the LCO and if everything was
+in order, and if the operation had not been recalled (which happened occasionally),
+the LCO would initiate the launch sequence and drop the D-21B/booster. Once the
+D-21B/booster had been released from the pylon, very little control of it (other
+than some telemetry signals from the LCO on board the B-52H) was possible.
+
+Instantaneously, as the D-21B/booster dropped, automatic sequencing within the
+D-21B would kick in. Approximately one to three seconds following the drop, the
+booster would ignite and the AFCS, INS, ADC and other systems inside the D-21B
+would follow their sequencing to start up the ramjet and propel the D-21B into
+proper trajectory. The AFCS had a very simple pitch program, putting the D-21B
+into a steep climb and leveling off at the end of the booster’s 90 second burn.
+Following that, the booster would be jettisoned, the programmed operations from
+the on-board computer would commence, and the D-21B would be on its way.
+Now all that could be done (other than a few actions remaining under control of the
+LCO) was to wait and hope. The most vital command the LCO could order was a
+signal for immediate destruction of the D-21B, available in the event anything
+went wrong or if conditions demanded abandoning the bird for safety and/or
+security reasons.
+
+The mission track was programmed into the INS, which provided steering
+commands to the roll channel of the AFCS. The ADC was pre-set to keep the D-
+21B flying at a fixed Mach number.
+
+Once en route and on target, the payload/camera equipment would begin operating
+and continue until the computer shut it down. The D-21B would then be vectored
+into its final return leg. At an exact spot determined by the INS, the Marquardt
+engine would shut down and the vehicle would decelerate and enter a controlled
+descent to a lower altitude of about 60,000 feet. At a pre-determined point,
+explosive bolts would fire and the hatch would be ejected. The hatch-less vehicle
+would then tumble on its way until an explosive charge would destroy the entire
+
+Page | 6
+D-21B drone, leaving behind only a meaningless residue of ashes, debris, and
+whatever else remained from the blast.
+
+After egress, the hatch would drop to an altitude of about 15,000 feet or so when
+the drogue and main chute (attached to the inside of the hatch) would engage,
+trailing the hatch via cable a few hundred feet below the chute. There were
+calculated markings on the cable that the “Cat’s Whiskers” on the JC-130B would
+hopefully engage. The hatch would then be taken into the aircraft and delivered to
+the closest location for recovery operations by ”A” Flight/4200th Support Squadron
+personnel.
+
+If the JC-130B missed its target, the ship (at location number three) would then
+attempt recovery operations, performed by ”A” Flight/4200th Support Squadron
+personnel already on board. In the case of a successful recovery, the ship would
+return to port and the camera pallet would be sent to the photo analysis center at
+Beale AFB, California. Unfortunately, the Navy was never successful in
+recovering a hatch. It was always either recovered by the JC-130B or lost
+completely.
+
+
+
+
+Page | 7
+

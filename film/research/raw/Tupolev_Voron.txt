@@ -1,0 +1,42 @@
+The Tupolev Voron (Russian: Ворон; English: Raven) was a planned supersonic unmanned reconnaissance aircraft of the Soviet Union manufactured by the company Tupolev, largely based on or designed to compete with the Lockheed D-21.
+
+
+== History ==
+In the first mission of the Lockheed D-21 on 9 November 1969, the drone reached its target area and was able to photograph the nuclear weapon testing site Lop Nor in the People's Republic of China, but did not turn around due to a malfunction of the navigation system and ultimately crashed in the Soviet Union. The remains of the crashed drone were recovered and analysed by the Soviet aircraft industry. Decades later, during the 1980s they were given to Ben Rich, an aeronautics engineer for Lockheed.
+The Council of Ministers of the Soviet Union commissioned the Tupolev OKB (Tupolev Experimental Design Bureau) to rebuild the D-21 using Soviet materials, engines and equipment. Work began at the MMZ Opyt facility near Moscow, which already had experience with the drones Jastreb-1, Jastreb-2, Reys and Strizh. The project was named Voron (English: Raven). It was headed by Alexei Tupolev, the son of Andrei Tupolev.
+The Voron was planned as a reconnaissance platform which, in conjunction with other airborne and ground-based reconnaissance tools, would contribute to overall strategic reconnaissance for the Soviet Union. The autopilot was to guide the aircraft along a route pre-programmed with way-points. Navigation was based on an inertial navigation system. For the reconnaissance, only a high-resolution camera, which would have been attached to the underside, was available as payload. The drone was intended to be launched from a Tupolev Tu-95 strategic bomber. This is similar to the modification of the D-21, which could be launched from a wing station of a Boeing B-52 Stratofortress, though a B-52 could carry a D-21 under each wing while a Tu-95 could only carry one Voron held partially inside an opened bomb bay. It was also planned to use the Voron from a bomber version of the Tupolev Tu-144, as a counterpart to the  Lockheed M-21 / D-21 combination, and a later bomber produced as Tupolev Tu-160.
+Some sources state the Voron was equipped with an RD-012 engine with 1,350 kgf (13.2 kN; 3,000 lbf) thrust; other sources speak of a 3Ts4 (RD-07K) engine from the OKB-670 of Michail Bondarjuk. The OKB-670 also used the relatively well-preserved Marquardt RJ43-MA-11 engine of the D-21. After disengaging from the carrier aircraft, the Voron was to be accelerated to a supersonic speed by the jettison-able booster with an output of 47,500 kgf (466 kN; 105,000 lbf). The Voron was only intended for a single mission. After completing the mission, the collected data would be separated from the rest of the drone in a reusable section containing the reconnaissance equipment and glide down on a parachute, similar to the Jastreb-1 drone.
+A ground-based launch of the Voron was also planned, using a trailer with a large booster rocket. This project was soon rejected because the deployment range would have been much shorter than a carrier-aircraft launch. The work on the Voron lasted for several years and the project yielded valuable insights and useful materials for future supersonic missiles. The Voron was not built as the Soviet government came to believe that reconnaissance satellites would be more effective than drones.
+
+
+== Specifications ==
+General characteristics
+
+Length: 13.07 m (42 ft 11 in)
+Wingspan: 5.8 m (19 ft 0 in)
+Height: 2.08 m (6 ft 10 in)
+Wing area: 37 m2 (400 sq ft)
+Empty weight: 3,900 kg (8,598 lb)
+Performance
+
+Maximum speed: 3,500–3,800 km/h (2,200–2,400 mph, 1,900–2,100 kn)
+Maximum speed: Mach 3.25–3.55
+Range: 4,600 km (2,900 mi, 2,500 nmi)
+Service ceiling: 23,000–26,400 m (75,500–86,600 ft)
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Gordon, Yefim (2008). US aircraft in the Soviet Union and Russia. Hinckley: Midland. p. 245. ISBN 978-1-85780-308-2.
+Gordon, Yefim; Rigmant, Vladimir (2005). OKB Tupolev: A History of the Design Bureau and its Aircraft. London: Midland Publ. pp. 325–327. ISBN 1-85780-214-4. OCLC 475344733.
+
+
+== External links ==
+Three side drawings (in English)
+Voron (in Russian)
+Voron cut-drawing (in English)

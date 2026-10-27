@@ -1,0 +1,104 @@
+The Lockheed D-21 is an American supersonic reconnaissance drone. The D-21 was initially designed to be launched from the back of an M-21 carrier aircraft, a variant of the Lockheed A-12 aircraft.  The drone had maximum speed in excess of Mach 3.3 (2,200 miles per hour; 3,600 kilometers per hour) at an operational altitude of 90,000 feet (27,000 meters). Development began in October 1962. Originally known by the Lockheed designation Q-12, the drone was intended for reconnaissance deep into enemy airspace.
+The D-21 was designed to carry a single high-resolution photographic camera over a preprogrammed path, then release the camera module into the air for retrieval, after which the drone would self-destruct. Following a fatal accident when launched from an M-21, the D-21 was modified to be launched from a Boeing B-52 Stratofortress. Several successful test flights were made, followed by at least four unsuccessful operational D-21 flights over China, before the program was canceled in 1971.
+
+
+== Design and development ==
+In the 1960s, Lockheed's secret Skunk Works developed the Mach 3 A-12 reconnaissance aircraft for the Central Intelligence Agency (CIA). After the shooting down of the U-2 piloted by Gary Powers in 1960, several different concepts were proposed as alternatives. Kelly Johnson, the leader of Skunk Works, developed the concept of a long-range drone that used much of the A-12's technology. In October 1962, the CIA and the United States Air Force (USAF) instructed Lockheed to study a high-speed, high-altitude drone concept. Johnson specified speeds of Mach 3.3–3.5, an operational altitude of 87,000–95,000 feet (27,000–29,000 m), and a range of 3,000 nautical miles (3,500 mi; 5,600 km). It was intended to make a one-way trip, eject its camera payload at the end of the mission for recovery, then self-destruct. It had a double-delta wing similar to the A-12's wing design. The Q-12 was to be air-launched from the back of an A-12, and used key technology from the A-12 project, including titanium construction and radar cross-section reduction design features.
+
+Johnson wanted to power the Q-12 with a ramjet engine built by the Marquardt Corporation for the Boeing CIM-10 Bomarc long-range surface-to-air missile. Marquardt and Lockheed had already collaborated on several programs and had a close working relationship. The engine, the RJ43-MA-11, required modification, since it was only designed to burn as long as the missile needed to hit a target, while the Q-12's engine needed to operate at high temperatures for at least an hour and a half at high altitudes. The modified engine was designated RJ43-MA20S-4.
+A full-scale mockup of the Q-12 was ready by 7 December 1962, and had already undergone preliminary tests to measure its radar cross-section. Marquardt had also successfully tested the modified RJ-43 in its wind tunnel in the meantime. The CIA was not enthusiastic about the Q-12, mostly because the agency was overextended at the time with U-2 missions, getting the A-12 up to speed and covert operations in Southeast Asia. The USAF was interested in the Q-12 as both a reconnaissance platform and a cruise missile and the CIA finally decided to work with the USAF to develop the new drone. Lockheed was awarded a contract in March 1963 for full-scale development of the Q-12.
+The camera and its film magazines with an inertial navigation system were carried in a cramped "Q-bay" below the drone's air intake. These components were built into a module that fit into the bay and was known as a "hatch". The hatch would be ejected at the end of the mission and then snagged out of the air by a JC-130 Hercules, a technique that had been developed by the USAF to recover film canisters from balloons and satellites. If the C-130 missed, the hatch was equipped with flotation devices so it could be recovered by ship if released over water. Honeywell built the avionics systems; new construction techniques and materials had to be developed for the systems to withstand the high temperatures, extreme vibrations and lack of space in the D-21.
+
+In late 1963 the project was named Tagboard; the Q-12 was re-designated D-21 while the A-12 version launcher became M-21 (D- for "daughter" and M- for "mother"). Two of the original 18 A-12 aircraft were designated as M-21s with serial numbers 60-6940 and 60-6941. The M-21 was a two-seat version of the A-12, with a pylon on the fuselage centerline between the vertical stabilizers to carry the drone in a nose-up attitude.
+
+
+=== Testing and carrier change ===
+A D-21 mounted on an M-21 began captive flight-testing on 22 December 1964. Aerodynamic covers were initially placed over the D-21's intake and exhaust to reduce drag, but had to be removed after the first few tests, as no way of discarding them at Mach 3 without damaging the drone or carrier plane could be devised.
+The D-21 was first launched from an M-21 on 5 March 1966. The drone was released but stayed close to the M-21's back for a few seconds, which seemed like "two hours" to the M-21 crew. A second launch took place on 27 April 1966; the D-21 reached its operational altitude of 90,000 ft (27,000 m) and speed of over Mach 3.3 (2,200 mph; 3,600 km/h), but was lost due to a hydraulic pump failure after a flight of over 1,200 nmi (1,400 mi; 2,200 km). The USAF's interest in the program continued and more D-21s were ordered after the second launch. A third flight took place on 16 June with the D-21 flying 1,550 nmi (1,800 mi; 2,900 km) through its complete flight profile; its camera hatch was not released due to an electronics failure.
+The fourth and final launch from an M-21 on 30 July ended in disaster. Unlike the three previous launches this one was performed straight and level, not in an outside loop to assist in the separation of the drone from the aircraft. The D-21 suffered an engine unstart and struck the M-21's tail after separation, leading to the destruction of both aircraft. The two crew ejected and landed at sea. The pilot, Bill Park, survived, but the Launch Control Officer, Ray Torrick, drowned.
+
+Following the accident, Johnson suggested launching the D-21 from the Boeing B-52 Stratofortress bomber and adding a solid rocket booster to get it up to speed. The drone was modified by adding attachment points on its spine to mate with the carrying pylon on the B-52 and its belly attachment points were adapted to accommodate the rocket booster necessary to increase its speed and allow its ramjet to operate. Its vertical stabilizer was increased in size by approximately 20%. The modified drone version was designated D-21B (there was no D-21A). Two B-52Hs were modified to carry two drones each by means of two large underwing pylons that replaced the smaller pylons used for the AGM-28 Hound Dog cruise missiles. The tail gunner's and electronic warfare officer's stations were replaced with two launch control stations. Command and telemetry systems were added, and high-speed cameras were installed to track the drones as they separated from the pylons. The launch control officer on the B-52H could communicate with the D-21B and could make it self-destruct.
+
+The solid-propellant rocket booster was both larger and heavier than the drone; it was 44 feet 4 inches (14 m) long and weighed 13,286 pounds (6,000 kg). It had a folding tail fin on the bottom to stabilize it while the rocket was firing. The booster had a burn time of 87 seconds and a thrust of 27,300 pounds-force (121 kN). During ground handling everyone within 25 feet (7.6 m) was required to wear anti-static straps to prevent any discharge of static electricity that might ignite the booster.
+The first attempted launch of a D-21B was on 28 September 1967, but the drone fell off the B-52's launch pylon due to a stripped nut on the pylon before the aircraft reached its intended launch point. Johnson admitted that the incident was "very embarrassing". Three more launches were performed from November 1967 to January 1968. None were completely successful, so Johnson ordered his team to conduct a thorough review before renewing launch attempts. The next launch was on 10 April 1968. It also failed as the engine did not ignite. On 16 June the D-21B finally made a completely successful flight; it flew at the specified altitude and course for its full range, and the hatch was recovered. The next two launches were failures, followed by another successful flight in December. A test in February 1969 to check the inertial navigation system using an actual mission profile was a failure. The next two flights in May and July succeeded.
+
+
+== Operational history ==
+
+At least four operational missions with the D-21B took place under the code name Senior Bowl. These were conducted over China from 9 November 1969 to 20 March 1971 to spy on the Lop Nor nuclear test site. The USAF's 4200th Support Squadron, based at Beale Air Force Base, California, flew the missions, usually from Andersen Air Force Base in Guam.
+The Chinese government never reported spotting the D-21B in flight. The first one failed to turn around and continued straight on, crashing in the Soviet Union. Another test flight was conducted on 20 February 1970 in a successful attempt to correct any problems. The second operational mission was on 16 December 1970. The D-21B reached Lop Nor and returned to the recovery point, but the hatch had a partial parachute failure and was lost at sea with its photographs.
+During the third operational mission, on 4 March 1971, the D-21B flew to Lop Nor and returned, and released the hatch, which deployed its parachute, but the midair recovery failed and the hatch fell into the water. The destroyer that tried to retrieve the hatch ran it down and it sank. The fourth, and last, Senior Bowl flight was on 20 March 1971. It was lost over China on the final segment of the route over China's Yunnan province; wreckage was found by local authorities. In 2010, after being in the junkyard of the China Aviation Museum for years, the wreckage was moved to the exhibition area.
+According to writer Lloyd Spanberger, at least two additional operational D-21B flights may have taken place. Spanberger cites an interview with Lt. Col. Alfred Crane, who worked with classified spy satellites and drones during the Cold War, in which Crane described processing two D-21B film capsules, both from flights over China. In both cases, the hatch was successfully recovered (whether in midair or at sea is unknown), but only one yielded any usable photographs. The use of improper film processing equipment caused the emulsion on the first drone's film to separate from its base, destroying the photographs. In the other mission, the film development process was completed with no further obstacles, according to Spanberger.
+On 23 July 1971, the D-21B program was canceled due to its poor success rate, the introduction of a new generation of photo reconnaissance satellites, and President Richard Nixon's rapprochement with China. A total of 38 D-21 and D-21B drones had been built, 21 of which were expended in launches. The remaining 17 were initially stored at Norton Air Force Base, California, then moved to the Davis–Monthan Air Force Base "boneyard" near Tucson, Arizona, in 1976 and 1977. With the base open to the public, the D-21 drones were quickly spotted and photographed. The Air Force called them GTD-21Bs with the GT standing for Ground Training.
+The fate of the D-21 that had disappeared on the first operational flight was revealed in February 1986 when an official from the CIA returned a panel to Ben Rich that he had been given by a Soviet KGB agent. The drone had self-destructed over Siberia and the Soviets had recovered the wreckage. The Tupolev design bureau reverse-engineered the wreck and produced plans for a Soviet copy, named the Voron (Raven), but it was never built.
+In the late 1990s NASA considered using a D-21 to test a hybrid rocket-based combined cycle engine, which operates as a ramjet or rocket, depending on its flight regime. Ultimately NASA used a derivative of the agency's X-43A hypersonic test vehicle for the experiments.
+
+
+== Aircraft on display ==
+
+D-21B #510 – Museum of Flight, Seattle, Washington (mounted on remaining M-21 #60-6940)
+D-21B #522 – Pacific Coast Air Museum, Sonoma County, California
+D-21B #524 – National Museum of the United States Air Force, Wright-Patterson Air Force Base, Ohio
+D-21B #525 – Blackbird Airpark, Palmdale, California
+D-21B #527 – Chinese Aviation Museum, Beijing, China, wreckage of the unit lost over China on 20 March 1971
+D-21B #528 – Grissom Air Museum near Peru, Indiana
+D-21B #530 – Aerospace Maintenance and Regeneration Group (AMARG) on Davis–Monthan Air Force Base, Tucson, Arizona.)
+D-21B #533 – Pima Air & Space Museum (adjacent to Davis-Monthan AFB), Tucson, Arizona
+D-21B #534 – Evergreen Aviation Museum, McMinnville, Oregon
+D-21B #537 – March Field Air Museum, March Air Reserve Base, Riverside, California
+D-21B #538 – Southern Museum of Flight, Birmingham, Alabama
+D-21B #539 – Beale Air Force Base, near Marysville, California
+
+
+== Specifications (Lockheed D-21) ==
+Data from Pace, Landis & Jenkins, DonaldGeneral characteristics
+Length: 42 ft 10 in (13.06 m)
+Wingspan: 19 ft 0.25 in (5.7976 m)
+Height: 7 ft 0.25 in (2.1400 m)
+Gross weight: 11,000 lb (4,990 kg)
+Powerplant: 1 × Marquardt RJ43-MA-20S4 ramjet, 1,500 lbf (6.7 kN) thrust
+Performance
+
+Maximum speed: Mach 3.35
+Cruise speed: 2,524 mph (4,062 km/h, 2,193 kn) (Mach 3.32)
+Range: 3,500 mi (5,600 km, 3,000 nmi)
+Service ceiling: 95,000 ft (29,000 m)
+
+
+== See also ==
+
+Related development
+
+Lockheed M-21
+
+Related lists
+
+List of military aircraft of the United States
+List of Lockheed aircraft
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+Donald, David, ed. (2003). "Lockheed's Blackbirds: A-12, YF-12 and SR-71". Black Jets. Norwalk, Connecticut: AIRtime Publishing. ISBN 1-880588-67-6.
+Goodall, James C. and Nora D. (2002). "Senior Bowl–the Lockeed D-21". International Air Power Review. 3. Norwalk, Connecticut: AIRtime Publishing: 106–119. ISSN 1473-9917.
+Gordon, Yefim; Rigamant, Vladimir (2005). OKB Tupolev: A History of the Design Bureau and its Aircraft. Hinckley, England: Midland Publishing. ISBN 1-85780-214-4. OCLC 475344733.
+Landis, Tony R.; Dennis R. Jenkins (2005). Lockheed Blackbirds. Warbird Tech. Vol. 10 (Revised ed.). North Branch, Minnesota: Specialty Press. ISBN 1-58007-086-8.
+Merlin, Peter (5 January 2009). "Design and Development of the Blackbird: Challenges and Lessons Learned". NASA Technical Reports Server (NTRS). NASA. Retrieved 24 January 2024.
+Miller, Jay (1995). Lockheed Martin's Skunk Works (Revised ed.). Leicester, England: Midland Publishing. ISBN 1-85780-037-0.
+Pace, Steve (2004). Lockheed SR-71 Blackbird. Swindon: Crowood Press. ISBN 1-86126-697-9.
+Peebles, Curtiss (1999). Dark Eagles: A History of Top Secret U.S. Aircraft Programs (Revised ed.). Novato, California: Presidio Press. ISBN 0-89141-696-X.
+Rich, Ben; Janos, Leo (1996). Skunk Works. Boston: Little, Brown & Company. ISBN 0-316-74300-3.
+Spanberger, Lloyd (2014). Our mission revealed. Bloomington: Xlibris Corporation. ISBN 978-1-49901-113-5.
+
+
+== External links ==
+
+Loss of M-21 and D-21, including video of successful launches and the midair collision
+Directory of U.S. Military Rockets and Missiles
+Weapons of Precise Destruction
+Photos of Lockheed D-21B No. 527 in China Aviation Museum, Beijing

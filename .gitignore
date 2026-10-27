@@ -1,0 +1,6 @@
+.hoplite/
+__pycache__/
+film/data/
+film/build/
+film/research/raw/*.pdf
+film/research/raw/*.html

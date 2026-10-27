@@ -1,0 +1,240 @@
+The Lockheed A-12 is a retired high-altitude, Mach 3+ reconnaissance aircraft built for the United States Central Intelligence Agency (CIA) by Lockheed's Skunk Works, based on the designs of Clarence "Kelly" Johnson. The aircraft was designated A-12, the twelfth in a series of internal design efforts for "Archangel", the aircraft's internal code name. In 1959, it was selected over Convair's FISH and Kingfish designs as the winner of Project GUSTO, and was developed and operated under Project Oxcart.
+The CIA's representatives initially favored Convair's design for its smaller radar cross-section, but the A-12's specifications were slightly better and its projected cost was much lower. The companies' respective track records proved decisive. Convair's work on the B-58 had been plagued with delays and cost overruns, whereas Lockheed had produced the U-2 on time and under budget. In addition, Lockheed had experience running a highly classified "black" project.
+The A-12 was produced from 1962 to 1964 and flew from 1963 to 1968. It was the precursor to the twin-seat U.S. Air Force YF-12 prototype interceptor, M-21 launcher for the D-21 drone, and the SR-71 Blackbird, a slightly longer variant able to carry a heavier fuel and camera load. The A-12 began flying missions in 1967 and its final mission was in May 1968; the program and aircraft were retired in June. The program was officially revealed in the mid-1990s.
+A CIA officer later wrote, "Oxcart was selected from a random list of codenames to designate this R&D and all later work on the A-12. The aircraft itself came to be called that as well." The crews named the A-12 the Cygnus, suggested by pilot Jack Weeks to follow the Lockheed practice of naming aircraft after celestial bodies.
+
+
+== Design and development ==
+
+
+=== Background ===
+With the failure of the CIA's Project Rainbow to reduce the radar cross-section (RCS) of the U-2, preliminary work began inside Lockheed in late 1957 to develop a follow-on aircraft to overfly the Soviet Union.  Designer Kelly Johnson said, "In April 1958 I recall having long discussions with [CIA Deputy Director for Plans] Richard M. Bissell Jr. over the subject of whether there should be a follow-on to the U-2 aircraft.  We agreed ... that there should be one more round before satellites would make aircraft reconnaissance obsolete for covert reconnaissance."
+Under Project Gusto the designs were nicknamed "Archangel", after the U-2 program, which had been known as "Angel". As the aircraft designs evolved and configuration changes occurred, the internal Lockheed designation changed from Archangel-1 to Archangel-2, and so on. These names for the evolving designs soon simply became known as "A-1", "A-2", etc. The CIA program to develop the follow-on aircraft to the U-2 was code-named Oxcart. A-4 through A-6 concepts applied blended wing/fuselage configurations with combinations of turbojet, ramjet, and rocket propellant. However, these concepts never met the required range. Concepts A-7 thru A-9 used a single J58 afterburning turbojet plus two Marquardt XPJ-59 ramjets burning JP-150 fuel.
+
+Design concept A-10 featured a pair of General Electric J93-3 turbojets with 2-D underwing inlets and had better mission radius than concepts A-4 thru A-9. These designs had reached the A-11 stage when the program was reviewed. The A-11 was competing against a Convair proposal called Kingfish, of roughly similar performance. However, the Kingfish included a number of features that greatly reduced its RCS, which was seen as favorable to the board. Lockheed responded with a simple update of the A-11, adding twin canted fins instead of a single right-angle one, and adding a number of areas of non-metallic materials. This became the initial A-12 design. On 26 January 1960, the Central Intelligence Agency officially ordered 12 A-12 aircraft with the contract signed on 11 February 1960. Lockheed charged $96.6 million for design, manufacture and testing of 12 aircraft.
+
+
+=== New materials and production techniques ===
+
+Because the A-12 was well ahead of its time, many new technologies had to be invented specifically for the Oxcart project with some remaining in use to present day. One of the biggest problems engineers faced at the time was working with titanium.
+In his book Skunk Works: A Personal Memoir of My Years at Lockheed, Ben Rich stated, "Our supplier, Titanium Metals Corporation, had only limited reserves of the precious alloy, so the CIA conducted a worldwide search and using third parties and dummy companies, managed to unobtrusively purchase the base metal from one of the world's leading exporters – the Soviet Union. The Soviets never had an inkling of how they were actually contributing to the creation of the airplane being rushed into construction to spy on their homeland." 93 percent of the A-12's structure was titanium.
+
+Before the A-12, titanium was used only in high-temperature exhaust fairings and other small parts directly related to supporting, cooling, or shaping high-temperature areas on aircraft like those subject to the greatest kinetic heating from the airstream, such as wing leading edges. The A-12, however, was constructed mainly of titanium. Titanium is rigid and difficult to machine, which made it difficult to form into curves given available techniques. This made it difficult to form the leading edges of the wing and similar surfaces. The solution was found by machining only small "fillets" of the material with the required shape and then gluing them onto the underlying framework which was more linear. A good example is on the wing: the underlying framework of spars and stringers formed a grid, leaving triangular notches along the leading edge that were filled with fillets.
+With the move to the A-12, another improvement in RCS was made by replacing the fillets with new radar-absorbing composite materials made from iron ferrite and silicon laminate, both combined with asbestos to absorb radar returns and make the aircraft more stealthy.
+To further reduce the detectability of the aircraft's afterburner plumes a special cesium additive nicknamed "panther piss" was added to the fuel.
+
+
+=== Flight testing ===
+
+After development and production at Skunk Works, in Burbank, California, the first A-12 was transferred to Groom Lake test facility (Area 51). On 26 April 1962 it was taken on its first (unofficial and unannounced) flight with Lockheed test pilot Louis Schalk at the controls. The first official flight took place on 30 April and subsequent supersonic flight on 4 May 1962, reaching speeds of Mach 1.1 at 40,000 ft (12,000 m).
+In 1962, the first five A-12s were initially flown with Pratt & Whitney J75 engines capable of 17,000 lbf (76 kN) thrust each, enabling the J75-equipped A-12s to obtain speeds of approximately Mach 2.0. On 5 October 1962, with the newly developed J58 engines, an A-12 flew with one J75 engine, and one J58 engine. By early 1963, the A-12 was flying with J58 engines, and during 1963 these J58-equipped A-12s obtained speeds of Mach 3.2. 
+In 1963 the program experienced its first loss when, on 24 May, "Article 123" piloted by Kenneth S. Collins crashed near Wendover, Utah. Collins safely ejected and was wearing a standard flight suit, avoiding unwanted questions from the truck driver who picked him up. He called Area 51 from a highway patrol office. The reaction to the crash illustrated the secrecy and importance of the project. The CIA called the aircraft a Republic F-105 Thunderchief in news articles and official records. Two nearby farmers were told that the aircraft was carrying atomic weapons to dissuade them from approaching the crash site; and local law enforcement and a passing family were strongly warned to keep quiet about the crash. Each was also paid $25,000 (equivalent to $263,000 in 2025) in cash to do so; the project often used such cash payments to avoid outside inquiries into its operations (the project received ample funding for many objectives: contracted security guards were paid $1,000 (equivalent to $11,000 in 2025) monthly with free housing on base, and chefs from Las Vegas were available 24 hours a day for steak, Maine lobster, or other requests).
+In June 1964, the last A-12 was delivered to Groom Lake, from where the fleet made a total of 2,850 test flights. A total of 18 aircraft were built through the program's production run. Of these, 13 were A-12s, three were prototype YF-12A interceptors for the U.S. Air Force (not funded under the OXCART program), and two were M-21 reconnaissance drone carriers. One of the 13 A-12s was a dedicated trainer aircraft with a second seat, located behind the pilot and raised to permit the instructor pilot to see forward. The A-12 trainer, known as "Titanium Goose", retained the J75 power plants for its entire service life.
+Three more A-12s were lost in later testing. On 9 July 1964, "Article 133" crashed while making its final approach to the runway when a pitch-control servo device froze at an altitude of 500 ft (150 m) and airspeed of 200 knots (230 mph; 370 km/h) causing it to begin a smooth steady roll to the left. Lockheed test pilot Bill Park could not overcome the roll. At about a 45-degree bank angle and 200 ft (61 m) altitude he ejected and was blown sideways out of the aircraft. Although he was not very high off the ground, his parachute opened and he landed safely.
+On 28 December 1965, the third A-12 was lost when "Article 126" crashed 30 seconds after takeoff when a series of violent yawing and pitching actions was followed very rapidly with the aircraft becoming uncontrollable. Mel Vojvodich was scheduled to take aircraft number 126 on a performance check flight which included a rendezvous beacon test with a KC-135 tanker and managed to eject safely 150 to 200 ft (46 to 61 m) above the ground. A post-crash investigation revealed that the primary cause of the accident was a maintenance error; a flight-line electrician had mistakenly swapped the connections of the wiring harnesses linking the yaw- and pitch-rate gyroscopes of the Stability Augmentation System to the control-surface servos, meaning that control inputs commanding pitch changes counterintuitively caused the aircraft to yaw and control inputs commanding left or right yaw instead changed the aircraft's pitch angle. The investigation criticized the electrician's negligence but also noted as contributory causes failures in the supervision of maintenance activity and the fact that the aircraft's design allowed for the swapped connection in the first place.
+
+
+==== Walter Ray ====
+
+The first fatality of the Oxcart program occurred on 5 January 1967, when "Article 125" crashed, killing CIA pilot Walter Ray when the aircraft ran out of fuel while on its descent to the test site. No precise cause could be established for the loss and it was considered most probable that a fuel quantity system error led to fuel starvation and engine flameout 67 miles (108 km) from the base. Ray ejected successfully, but was unable to separate from the seat and was killed on impact. Urban explorers installed a small monument to Ray near the crash site in the Nevada desert.
+
+
+== Operational history ==
+
+Although originally designed to succeed the U-2 overflying the Soviet Union and Cuba, the A-12 was never used for either objective. After a U-2 was shot down in May 1960, the Soviet Union was considered too dangerous to overfly except in an emergency. And overflights were no longer necessary following the introduction of reconnaissance satellites. As for Cuba, although crews trained for flights over Cuba, U-2s continued to be adequate there.
+The Director of the CIA decided to deploy some A-12s to Asia. The first A-12 arrived at Kadena Air Base on Okinawa on 22 May 1967. With the arrival of two more aircraft on 24 May, and 27 May this unit was declared to be operational on 30 May, and it began Operation Black Shield on 31 May.  Mel Vojvodich flew the first Black Shield operation, over North Vietnam, photographing surface-to-air missile (SAM) sites, flying at 80,000 ft (24,000 m), and at about Mach 3.1. During 1967, the A-12s carried out 22 sorties in support of the Vietnam War from Kadena Air Base. During 1968, further Black Shield operations were conducted in Vietnam. Additional sorties were carried out during the Pueblo Crisis with North Korea.
+
+
+=== Mission profile ===
+Operations and maintenance at Kadena AB began with the receipt of an alert notification. Both a primary aircraft and pilot and a back-up aircraft and pilot were selected. The aircraft were given thorough inspection and servicing, all systems were checked, and the cameras equipped. Pilots received a detailed route briefing in the early evening prior to the day of flight. On the morning of the flight a final briefing occurred, at which time the condition of the aircraft and its systems was reported, last-minute weather forecasts reviewed, and other relevant intelligence communicated, together with any amendments or changes in the flight plan. Two hours prior to take-off the primary pilot had a medical examination, got into his suit, and was taken to the aircraft. If any malfunctions developed on the primary aircraft, the back-up could execute the mission one hour later.
+A typical route profile for a mission over North Vietnam included a refueling shortly after take-off, south of Okinawa, the planned photographic pass or passes, withdrawal to a second aerial refueling in the Thailand area, and return to Kadena. Its turning radius of 86 miles (138 km) was such, however, that on some mission profiles it might intrude into Chinese airspace during the turn.
+Once landed, the camera film was removed from the aircraft, boxed, and sent by special aircraft to the processing facilities. Film from earlier missions was developed at the Eastman Kodak plant in Rochester, New York. Later an Air Force Center in Japan carried out the processing in order to place the photo intelligence in the hands of American commanders in Vietnam within 24 hours of completion of a mission.
+
+
+=== SAM evasion over North Vietnam ===
+There were a number of reasons leading to the retirement of the A-12, but one major concern was the growing sophistication of Soviet-supplied surface-to-air missile (SAM) sites that it had to contend with over mission routes. In 1967, the vehicle was tracked with acquisition radar over North Vietnam, but the SAM site was unsuccessful with the Fan Song guidance radar used to home the missile to the target. On 28 October, a North Vietnamese SAM site launched a single, albeit unsuccessful, missile. Photography from this mission documented the event with photographs of missile smoke above the SAM firing site, and with pictures of the missile and of its contrail. Electronic countermeasures equipment appeared to perform well against the missile firing.
+During a flight on 30 October 1967, pilot Dennis Sullivan detected radar tracking on his first pass over North Vietnam. Two sites prepared to launch missiles but neither did. During the second pass, at least six missiles were fired, each confirmed by missile vapor trails on mission photography. Looking through his rear-view periscope, Sullivan saw six missile contrails climb to about 90,000 ft (27,000 m) before converging on his aircraft. He noted the approach of four missiles, and although they all detonated behind him, one came within 300 to 700 ft (100 to 200 m) of his aircraft. Post-flight inspection revealed that a piece of metal had penetrated the lower right wing fillet area and lodged against the support structure of the wing tank. The fragment was not a warhead pellet but may have been a part of the debris from one of the missile detonations observed by the pilot.
+On 8 March 1968, the final Black Shield mission over North Vietnam and the Demilitarized Zone (DMZ) was flown. Good quality photography was obtained of Khe Sanh and the Laos, Cambodia, and South Vietnamese border areas, while no usable photography was obtained of North Vietnam due to adverse weather conditions. There was no indication of a hostile weapons reaction and no ECM systems were activated.
+
+
+=== Final missions over North Korea ===
+In 1968, three missions were flown over North Korea. The first mission occurred during a very tense period following seizure of the US Navy intelligence ship Pueblo on 23 January. The aim was to discover whether the North Koreans were preparing any large scale hostile move following this incident and to actually find where the Pueblo was hidden. The ship was found anchored in an inlet in Wonsan Bay attended by two North Korean patrol boats and guarded by three Komar class missile boats. Chinese tracking of the flight was apparent, but no missiles were fired at the Oxcart.
+The second mission, flown on 19 February 1968, was also the first two-pass mission over North Korea. The Oxcart vehicle photographed 84 primary targets plus 89 bonus targets. Scattered clouds covered 20 percent of the area, concealing the area in which the USS Pueblo was photographed on the previous mission. One new SA-2 site was identified near Wonsan.
+
+
+=== Retirement ===
+
+Even before the A-12 became operational, its intended purpose of replacing the U-2 in overflights of the Soviet Union had become less likely. Soviet radar systems increased their blip-to-scan ratios, which rendered the A-12 vulnerable. In any event, President Kennedy had stated publicly that the United States would not resume such missions. By 1965, moreover, the photoreconnaissance satellite programs had progressed to the point that crewed flights over the Soviet Union were unnecessary to collect strategic intelligence.
+On 28 December 1966, the A-12 program was terminated – even before Black Shield began in 1967 – due to budget concerns and because of the SR-71, which began to arrive at Kadena in March 1968. The twin-seat SR-71 was heavier and flew slightly lower and slower than the A-12.
+On 8 May 1968, Ronald L. Layton flew the 29th and final A-12 mission over North Korea. On 4 June 1968, just 2+1⁄2 weeks before the fleet's retirement, an A-12 from Kadena, piloted by Jack Weeks, was lost over the Pacific Ocean near the Philippines while conducting a functional check flight after the replacement of one of its engines. Frank Murray made the final A-12 flight on 21 June 1968, to Palmdale, California, storage facility.
+On 26 June 1968, Vice Admiral Rufus L. Taylor, the deputy director of Central Intelligence, presented the CIA Intelligence Star for valor to Weeks' widow and pilots Collins, Layton, Murray, Vojvodich, and Dennis B. Sullivan for participation in Black Shield.
+The deployed A-12s and the eight non-deployed aircraft were placed in storage at Palmdale. All surviving aircraft remained there for nearly 20 years before being sent to museums around the U.S. On 20 January 2007, despite protests by Minnesota's legislature and volunteers who had maintained it in display condition, the A-12 preserved in Minneapolis, Minnesota, was sent to CIA headquarters to be displayed there.
+
+
+=== A-12 aircraft summary ===
+
+
+=== Timeline ===
+Major events in the development and operation of the A-12 and its successor, the SR-71, include:
+
+16 August 1956: Following Soviet protests about U-2 overflights, Richard M. Bissell Jr. conducts the first meeting on reducing the radar cross section of the U-2. This evolves into Project Rainbow, a bid to prolong the aircraft's operational life through a package of modifications. Called "Trapeze", these added wires and paints impregnated with tiny iron ferrite beads and ECM systems. The modified U-2s were called "Dirty Birds". Ultimately, the program failed to substantially reduce the U-2's RCS, leading to the decision to develop a new aircraft with stealth characteristics.
+December 1957: Lockheed begins designing subsonic stealthy aircraft under what will become Project Gusto.
+24 December 1957: First J-58 engine run.
+21 April 1958: Kelly Johnson makes first notes on a Mach-3 aircraft, initially called the U-3, but eventually evolving into Archangel I. Kelly noted in his A-12 diary, "I drew up the first Archangel proposal for a Mach 3.0 cruise airplane having a 4,000 nmi [4,600 mi; 7,400 km] range at 90,000 to 95,000 ft [27,000 to 29,000 m]".
+November 1958: The Land panel provisionally selects Convair FISH (B-58-launched parasite) over Lockheed's A-3. The A-3 was an unstaged (non-parasite) aircraft that cruised at Mach 3.2 at 95,000 ft (29,000 m). The Land Panel favored Convair's design, which had a smaller radar cross section than the A-3. On 22 December, Convair was instructed to continue FISH's development and to plan for production. While Convair struggled with aerodynamic issues, Lockheed pursued its own efforts on high-speed, high-altitude reconnaissance designs, evolving from A-4 through A-11. The first three configurations, A-4 through A-6, were smaller, self-launched aircraft with vertical surfaces hidden above the wing. The aircraft used a variety of propulsion schemes that included turbojets, ramjets, and rockets. None met the required mission radius of 2,000 nmi (2,300 mi; 3,700 km), leading Lockheed to conclude that maximum performance and low radar cross section were mutually exclusive. The A-10 and A-11 configurations were larger aircraft that also focused on performance at the expense of radar cross section. Lockheed submitted the more refined A-11 at the next Land Panel review.
+June 1959: The Land panel provisionally selects the A-11 over FISH, instructing both companies to re-design their aircraft. In July, the Land panel rejected both the Convair and Lockheed proposals. The Convair FISH used unproven ramjet engine technology and would be launched from a modified B-58B Hustler which was canceled in June. The susceptibility of the A-11 to radar detection was considered too great. On 20 August, both firms provided specifications for their revised proposals.
+
+14 September 1959: CIA awards antiradar study, aerodynamic structural tests, and engineering designs, selecting the A-12 over rival Convair's Kingfish. Project Oxcart established. The A-12 design, a combination of their A-7 and A-11 submissions, emphasized low radar cross section, extremely high altitude and high-speed performance. Earlier, on 3 September, Project GUSTO was concluded and Project OXCART, to build the A-12, was begun.
+26 January 1960: The CIA formally placed an order for 12 A-12 aircraft.
+1 May 1960: Francis Gary Powers is shot down in a U-2 over the Soviet Union. He safely ejected and was turned over to Soviet authorities. A well-publicized trial followed and he was sentenced to 10 years "deprivation of liberty," serving three years in prison before being exchanged in 1962 for Soviet spy Rudolf Abel. Upon return he was debriefed extensively.
+
+26 April 1962: First flight of A-12 with Lockheed test pilot Louis Schalk at Groom Lake. The previous day, it had made an unofficial and unannounced flight, in keeping with Lockheed tradition. Schalk flew the aircraft less than two miles (three km), at an altitude of about twenty feet (six meters), because of serious wobbling caused by improper hookup of some navigational controls. Instead of circling around and landing, Schalk landed in the lake bed beyond the end of the runway. The next day, the official flight took place with the landing gear down, just in case. The flight lasted about 40 minutes. The takeoff was perfect, but after the A-12 got to about 300 ft (90 m) it started shedding all the "pie slice" fillets of titanium on the left side of the aircraft and one fillet on the right. (On later aircraft, those pieces were paired with triangular inserts made of radar-absorbing composite material.) Technicians spent four days finding and reattaching the pieces. Nonetheless, the flight pleased Johnson.
+13 June 1962: SR-71 mock-up reviewed by USAF.
+30 July 1962: J58 engine completes pre-flight testing.
+October 1962: A-12s first flown with J58 engines
+28 December 1962: Lockheed signs contract to build six SR-71 aircraft. Earlier in the month, on 17 December the 5th A-12 arrived at Groom Lake and the Air Force expressed an interest in obtaining reconnaissance versions of the Blackbird. Lockheed begins weapons systems development for the AF-12. Kelly Johnson obtained approval to design a Mach 3 Blackbird fighter/bomber.
+January 1963: A-12 fleet operating with J58 engines
+24 May 1963: Loss of first A-12 (#60-6926)
+20 July 1963: First Mach 3 flight tracked by MSQ 39 Radar on an RBS Train stationed at the Army Depot at McAlester, OK. The A-12 flew above 83,000 feet, at 2,250 MPH ground speed.
+7 August 1963: First flight of the YF-12A with Lockheed test pilot James Eastham at Groom Lake.
+June 1964: Last production A-12 delivered to Groom Lake.
+25 July 1964: President Johnson makes public announcement of SR-71.
+29 October 1964: SR-71 prototype (#61-7950) delivered to Palmdale.
+22 December 1964: First flight of the SR-71 with Lockheed test pilot Bob Gilliland at AF Plant #42. First mated flight of the MD-21 with Lockheed test pilot Bill Park at Groom Lake.
+28 December 1966: Decision to terminate A-12 program by June 1968.
+31 May 1967: A-12s conduct Black Shield operations out of Kadena
+3 November 1967: A-12 and SR-71 conducted a reconnaissance fly-off, codenamed NICE GIRL. Between 20 October and 3 November 1967, A-12s and SR-71s flew three identical routes along the Mississippi River about one hour apart with their collection systems on. The results were inconclusive. The A-12's camera had a wider swath but the SR-71 collected types of intelligence the A-12 could not of a good quality; however, some sensors would typically be removed to make room for ECM gear. There was little difference in range – the SR-71 carried more fuel – the A-12 had an altitude advantage of from 2,000 to 5,000 ft (600 to 1,500 m) over the SR-71 at the same Mach number, being a lighter aircraft. The radar cross section of both aircraft in a clean configuration was relatively low; the SR-71 in a full sensor configuration was somewhat higher due to its larger size and was appreciably larger again with the side-looking radar antenna installed. The A-12 was designed to optionally utilize one of three different types of high resolution cameras; the highest of which provided a 63 nmi (72 mi; 117 km) wide continuous swath of one foot (1⁄3 m) resolution. The SR-71 had the simultaneous capability for photography and ELINT. Its imagery was one foot resolution of two separate five-mile (8.0 km) swath wide strips positioned up to 19.6 mi (31.5 km) apart on either side of the aircraft.
+26 January 1968: North Korea A-12 overflight by Jack Weeks photo-locates the captured USS Pueblo in Changjahwan Bay harbor.
+5 February 1968: Lockheed ordered to destroy A-12, YF-12 and SR-71 tooling.
+8 March 1968: First SR-71A (#61-7978) arrives at Kadena AB to replace A-12s.
+21 March 1968: First SR-71 (#61-7976) operational mission flown from Kadena AB over Vietnam.
+8 May 1968: Jack Layton flies last operational A-12 sortie, over North Korea.
+5 June 1968: Loss of the last A-12 (#60-6932) during Functional Checkout Flight (FCF) flown from Kadena, Jack W. Weeks became the second and last CIA pilot killed in the line of duty during Oxcart and is so honored in the "Book of Honor" at CIA Headquarters. The A-12 had a radio telemetry system called "Birdwatcher" monitoring the most critical aircraft systems and transmitting data to ground monitoring stations. Following aerial refueling the ground station was informed via "Birdwatcher" that the starboard engine exhaust gas temperature was in excess of 1,580 °F (860 °C), the fuel flow on that engine was less than 7,500 lb (3,400 kg) per hour, and that the aircraft was below 68,500 ft (20,900 m). Contact was attempted several times with no response. Monitoring continued until the time that the aircraft's fuel would have been depleted. The aircraft was declared missing 520 miles (840 km) east of the Philippines and 625 miles (1,000 km) south of Okinawa in the South China Sea. The loss was due to an in-flight emergency. To maintain security the official news release identified the loss as an SR-71. An extensive air and sea search was conducted but no wreckage of "Article 129" was recovered. It was presumed destroyed at sea. The "Birdwatcher" system provided the only clues to what happened and was the basis for the accident report. It was ascertained that a malfunction involving an engine over-temperature and low fuel flow on the starboard engine had contributed to a catastrophic failure and subsequent aircraft break-up.
+21 June 1968: Final A-12 flight to Palmdale, California.
+See SR-71 timeline for later SR-71 events.
+
+
+== Variants ==
+
+
+=== Training variant ===
+
+The A-12 training variant (60-6927 "Titanium Goose") was a two-seat model with two cockpits in tandem with the rear cockpit raised and slightly offset. In case of emergency, the variant was designed to allow the flight instructor to take control.
+
+
+=== YF-12A ===
+
+The YF-12 program was a limited production variant of the A-12. Lockheed convinced the U.S. Air Force that an aircraft based on the A-12 would provide a less costly alternative to the recently canceled North American Aviation XF-108, since much of the design and development work on the YF-12 had already been done and paid for. Thus, in 1960 the Air Force agreed to take the seventh to ninth slots on the A-12 production line and have them completed in the YF-12A interceptor configuration.
+
+
+=== M-21 ===
+
+The M-21, a two-seat variant, carried and launched the Lockheed D-21, an uncrewed, faster and higher-flying reconnaissance drone. The M-21 had a pylon on its back for mounting the drone and a second cockpit for a Launch Control Operator/Officer (LCO) in the place of the A-12's Q bay. The D-21 was autonomous; after launch, it would fly over the target, travel to a predetermined rendezvous point, eject its data package, and self-destruct. A C-130 Hercules would catch the package in midair.
+The M-21 program was canceled in 1966 after a drone collided with the mother ship at launch. The crew ejected, but LCO Ray Torrick drowned when his flight suit filled with water after landing in the ocean.
+The D-21 lived on in the form of a B-model launched from a pylon under the wing of the B-52 bomber. The D-21B performed operational missions over China from 1969 to 1971, but was not particularly successful.
+
+
+== Accidents and incidents ==
+Six of the 15 A-12s were lost in accidents, with the loss of two pilots and an engineer: 
+
+24 May 1963: 60-6926 (Article 123) crashed near Wendover, Utah. The aircraft was flying a subsonic engine test flight when it entered a cloud, pitched up, and went out of control; the CIA pilot ejected successfully. The investigation found that cloud vapor had formed ice in the pitot tube, causing the airspeed indicator to show an erroneous reading. The aircraft pitched up sharply and entered an unrecoverable stall. The pilot was wearing a standard flight suit for this low-altitude flight, and did not look suspicious to the truck driver who recovered him or the highway patrol office where he was taken. The press was told that a Republic F-105 Thunderchief had crashed.
+9 July 1964: 60-6939 (Article 133) was lost on approach to Groom Dry Lake due to a complete hydraulic failure.
+28 December 1965: 60-6929 (Article 126) was lost on take-off from Groom Lake due to incorrect installation of the Stability Augmentation System (SAS).
+30 July 1966: 60-6941 (Article 135), one of the two drone carriers, was lost during a test flight off the California coast. Article 135 was operating 300 miles from the California coast to carry out a test launch of a D-21. The aircraft was flying at Mach 3.2+ when the crew made sure that the Marquardt engine on the D-21 had the required airflow. The drone was launched but the D-21 engine failed to start and it slammed down on the launch pylon causing the mother ship to pitch up. The pressure from the Mach-3.2 airflow "ripped the fuselage forebody from the wing planform". The crew were unable to escape at this high speed but managed to eject as the forebody tumbled towards the sea. The pilot, Bill Parks, was picked up by helicopter from the sea, but the launch control engineer, Ray Torrick, drowned.
+5 January 1967: 60-6928 (Article 125) was lost during a training flight. The pilot, Walter Ray, ejected but failed to separate from his seat and was killed. Due to a faulty fuel gauge, Article 125 ran out of fuel 70 miles from Groom Dry Lake. The pilot glided to a lower altitude to perform a controlled bailout but could not separate his parachute from his ejection seat. He was the first Cygnus pilot to be killed in an A-12 accident.
+5 June 1968: 60-6932 (Article 129) was lost off the Philippines during a functional check flight. The pilot, Jack Weeks, was killed.
+
+
+== Specifications (A-12) ==
+Data from A-12 Utility Flight ManualGeneral characteristics
+Crew: 1
+Capacity: 2,500 lb (1,100 kg) payload
+Length: 101 ft 7 in (30.96 m)
+Wingspan: 55 ft 7 in (16.94 m)
+Height: 18 ft 6 in (5.64 m)
+Wing area: 1,795 sq ft (166.8 m2) 
+Max takeoff weight: 117,000 lb (53,070 kg) 
+Max landing weight: 52,000 lb (24,000 kg)
+Fuel capacity: 10,590 US gal (8,818 imp gal; 40,088 L) / 68,300 lb (30,980 kg) of JP-7 at 6.45 lb/US gal (7.75 lb/imp gal; 0.773 kg/L)
+Powerplant: 2 × Pratt & Whitney JT11D-20B (J58-1) afterburning turbojets, 20,500 lbf (91 kN) thrust each dry, 32,500 lbf (145 kN) with afterburner
+Performance
+
+Maximum speed: Mach 3.3
+Supersonic cruise: Mach 3.1
+Range: 2,500 nmi (2,900 mi, 4,600 km) 
+Service ceiling: 85,000 ft (26,000 m) or higher
+Rate of climb: 11,800 ft/min (60 m/s)
+Wing loading: 65 lb/sq ft (320 kg/m2) 
+Thrust/weight: 0.56
+
+
+== See also ==
+English Electric P.10
+Lockheed D-21
+Lockheed CL-400 Suntan
+Saab 36
+Related development
+
+Lockheed YF-12
+Lockheed SR-71 Blackbird
+Aircraft of comparable role, configuration, and era
+
+Convair Kingfish
+
+Related lists
+
+List of military aircraft of the United States
+List of Lockheed aircraft
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+Crickmore, Paul (Winter 1993). "Of 'Cygnus' & 'Tagboard': The Era of the Lockheed A-12". Air Enthusiast. No. 52. pp. 44–50. ISSN 0143-5450.
+Donald, David (2003). Lockheed's Blackbirds: A-12, YF-12 and SR-71. Norwalk, Connecticut, USA: AIRtime. ISBN 1-880588-67-6.
+Jacobsen, Annie (2011). Area 51. London, UK: Orion Publishing. ISBN 978-1-4091-4113-6.
+Jenkins, Dennis R. (2001). Lockheed Secret Projects: Inside the Skunk Works. St. Paul, Minnesota, USA: MBI Publishing Company. ISBN 978-0-7603-0914-8.
+Landis, Tony R.; Jenkins, Dennis R. (2005). Lockheed Blackbirds. Minneapolis, Minnesota, USA: Specialty Press. ISBN 1-58007-086-8.
+McIninch, Thomas (2 July 1996). "The Oxcart Story". CIA Historical Review Program. Central Intelligence Agency. Archived from the original on 11 March 2009. Retrieved 10 April 2009.
+Pace, Steve (2004). Lockheed SR-71 Blackbird. Swindon, UK: The Crowood Press. ISBN 1-86126-697-9.
+Robarge, David (2012). Archangel: CIA's Supersonic A-12 Reconnaissance Aircraft (PDF) (2nd ed.). Washington, D.C.: Central Intelligence Agency. ISBN 978-1-92966-716-1. Archived from the original (PDF) on 26 September 2012.
+Frank Murray (Narrator, Presenter) (22 April 2017). The Oxcart Story. Archived from the original on 13 December 2017. Retrieved 24 December 2017.
+"History of the Oxcart Program" (PDF). SP-1362. Burbank, CA: Lockheed Aircraft Corporation. 1 July 1968. Archived from the original (PDF) on 23 January 2017.
+Rich, Ben R.; Janos, Leo (1994). Skunk Works : a personal memoir of my years at Lockheed (1st pbk. ed.). New York, US: Back Bay Books. ISBN 978-0316743-006.
+"The U-2's Intended Successor: Project Oxcart 1956–1968"". Central Intelligence Agency, approved for release by the CIA in October 1994. Retrieved 26 January 2007.
+
+
+=== Additional sources ===
+Crickmore, Paul F. (2000). Lockheed SR-71 – The Secret Missions Exposed. Oxford, England: Osprey Publishing. ISBN 1-84176-098-6.
+Graham, Richard H. (1996). SR-71 Revealed: The Inside Story. St. Paul, Minnesota, USA: MBI Publishing Company. ISBN 978-0-7603-0122-7.
+Johnson, Clarence L. (1968). History of the OXCART Program. Burbank, California, USA: Lockheed Aircraft Corporation Advanced Development Projects.
+Johnson, C. L. (1985). Kelly: More Than My Share of it All. Washington, D.C., USA: Smithsonian Books. ISBN 0-87474-491-1.
+Lovick, Edward Jr. (2010). Radar Man: A Personal History of Stealth. Bloomington, Indiana, USA: iUniverse. ISBN 978-1-4502-4802-0.
+Merlin, Peter W. (2009). Design and Development of the Blackbird: Challenges and Lessons Learned (PDF). Orlando, Florida, USA: American Institute of Aeronautics and Astronautics (AIAA).
+Merlin, Peter W. (2008). From Archangel to Senior Crown: Design and Development of the Blackbird. Reston, Virginia, USA: American Institute of Aeronautics and Astronautics (AIAA). ISBN 978-1-56347-933-5.
+Pedlow, Gregory W.; Welzenbach, Donald E. (1992). The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954–1974. Washington, D.C., USA: Central Intelligence Agency. ISBN 0-7881-8326-5.
+Rich, Ben R.; Janos, Leo (1994). Skunk Works: A Personal Memoir of My Years at Lockheed. New York, USA: Little, Brown and Company. ISBN 978-0-316-74330-3.
+Shul, Brian; O'Grady, Sheila Kathleen (1994). Sled Driver: Flying the World's Fastest Jet. Marysville, California, USA: Gallery One. ISBN 0-929823-08-7.
+Suhler, Paul A. (2009). From RAINBOW to GUSTO: Stealth and the Design of the Lockheed Blackbird. Reston, Virginia, USA: American Institute of Aeronautics and Astronautics (AIAA). ISBN 978-1-60086-712-5.
+
+
+== External links ==
+
+Project Oxcart: CIA Report
+FOIA documents on OXCART (Declassified 21 January 2008)
+Differences between the A-12 and SR-71
+Blackbird Spotting maps the location of every existing Blackbird, with aerial photos from Google Maps
+Photographs and disposition of the "Habu" aircraft at habu.org
+The U-2's Intended Successor: Project Oxcart (Chapter 6 of "The CIA and Overhead Reconnaissance", by Pedlow & Welzenbach)
+USAF Aircraft Serial Numbers for 1960, including all A-12s, YF-12As and M-21s
+"The Real X-Jet", Air & Space magazine, March 1999
+Secret A-12 Spy Plane Officially Unveiled at CIA's Headquarters Archived 7 August 2011 at the Wayback Machine
+US Secret Spy Planes Project-1963 Test Flight Crash
+"Satellite Imagery & GPS Coordinates of A-12 Project Oxcart Articles & SR-71 Blackbirds".
