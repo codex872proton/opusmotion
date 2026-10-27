@@ -1,0 +1,1109 @@
+{
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "duration": 69.761,
+ "preroll": 0.7,
+ "beats": [
+  {
+   "id": "b01",
+   "scene": "hook",
+   "text": "November, 1952. The CIA gets a radio message from deep inside China.",
+   "start": 0.7,
+   "end": 6.349,
+   "words": [
+    {
+     "w": "November,",
+     "start": 0.7,
+     "end": 1.14
+    },
+    {
+     "w": "1952.",
+     "start": 1.44,
+     "end": 2.22
+    },
+    {
+     "w": "The",
+     "start": 2.98,
+     "end": 3.08
+    },
+    {
+     "w": "CIA",
+     "start": 3.08,
+     "end": 3.52
+    },
+    {
+     "w": "gets",
+     "start": 3.52,
+     "end": 3.88
+    },
+    {
+     "w": "a",
+     "start": 3.88,
+     "end": 4.08
+    },
+    {
+     "w": "radio",
+     "start": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "message",
+     "start": 4.32,
+     "end": 4.7
+    },
+    {
+     "w": "from",
+     "start": 4.7,
+     "end": 5.02
+    },
+    {
+     "w": "deep",
+     "start": 5.02,
+     "end": 5.28
+    },
+    {
+     "w": "inside",
+     "start": 5.28,
+     "end": 5.76
+    },
+    {
+     "w": "China.",
+     "start": 5.76,
+     "end": 6.14
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "scene": "hook",
+   "text": "The pickup worked.",
+   "start": 6.649,
+   "end": 7.592,
+   "words": [
+    {
+     "w": "The",
+     "start": 6.649,
+     "end": 6.769
+    },
+    {
+     "w": "pickup",
+     "start": 6.769,
+     "end": 6.989
+    },
+    {
+     "w": "worked.",
+     "start": 6.989,
+     "end": 7.369
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "scene": "hook",
+   "text": "It was a lie.",
+   "start": 8.092,
+   "end": 8.849,
+   "words": [
+    {
+     "w": "It",
+     "start": 8.092,
+     "end": 8.192
+    },
+    {
+     "w": "was",
+     "start": 8.192,
+     "end": 8.292
+    },
+    {
+     "w": "a",
+     "start": 8.292,
+     "end": 8.432
+    },
+    {
+     "w": "lie.",
+     "start": 8.432,
+     "end": 8.612
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "scene": "setup",
+   "text": "The CIA had dropped a spy team into Manchuria. Now, one man had to get out.",
+   "start": 9.499,
+   "end": 14.559,
+   "words": [
+    {
+     "w": "The",
+     "start": 9.499,
+     "end": 9.619
+    },
+    {
+     "w": "CIA",
+     "start": 9.619,
+     "end": 9.999
+    },
+    {
+     "w": "had",
+     "start": 9.999,
+     "end": 10.399
+    },
+    {
+     "w": "dropped",
+     "start": 10.399,
+     "end": 10.619
+    },
+    {
+     "w": "a",
+     "start": 10.619,
+     "end": 10.779
+    },
+    {
+     "w": "spy",
+     "start": 10.779,
+     "end": 11.039
+    },
+    {
+     "w": "team",
+     "start": 11.039,
+     "end": 11.359
+    },
+    {
+     "w": "into",
+     "start": 11.359,
+     "end": 11.579
+    },
+    {
+     "w": "Manchuria.",
+     "start": 11.579,
+     "end": 12.079
+    },
+    {
+     "w": "Now,",
+     "start": 12.799,
+     "end": 12.959
+    },
+    {
+     "w": "one",
+     "start": 13.239,
+     "end": 13.499
+    },
+    {
+     "w": "man",
+     "start": 13.499,
+     "end": 13.699
+    },
+    {
+     "w": "had",
+     "start": 13.699,
+     "end": 13.939
+    },
+    {
+     "w": "to",
+     "start": 13.939,
+     "end": 14.059
+    },
+    {
+     "w": "get",
+     "start": 14.059,
+     "end": 14.159
+    },
+    {
+     "w": "out.",
+     "start": 14.159,
+     "end": 14.399
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "scene": "snatch",
+   "text": "There was no runway. Just two poles in the snow, a rope between them, and a man strapped to it.",
+   "start": 14.909,
+   "end": 19.948,
+   "words": [
+    {
+     "w": "There",
+     "start": 14.909,
+     "end": 15.009
+    },
+    {
+     "w": "was",
+     "start": 15.009,
+     "end": 15.089
+    },
+    {
+     "w": "no",
+     "start": 15.089,
+     "end": 15.289
+    },
+    {
+     "w": "runway.",
+     "start": 15.289,
+     "end": 15.669
+    },
+    {
+     "w": "Just",
+     "start": 16.269,
+     "end": 16.409
+    },
+    {
+     "w": "two",
+     "start": 16.409,
+     "end": 16.609
+    },
+    {
+     "w": "poles",
+     "start": 16.609,
+     "end": 16.869
+    },
+    {
+     "w": "in",
+     "start": 16.869,
+     "end": 17.049
+    },
+    {
+     "w": "the",
+     "start": 17.049,
+     "end": 17.169
+    },
+    {
+     "w": "snow,",
+     "start": 17.169,
+     "end": 17.449
+    },
+    {
+     "w": "a",
+     "start": 17.769,
+     "end": 17.829
+    },
+    {
+     "w": "rope",
+     "start": 17.829,
+     "end": 18.049
+    },
+    {
+     "w": "between",
+     "start": 18.049,
+     "end": 18.389
+    },
+    {
+     "w": "them,",
+     "start": 18.389,
+     "end": 18.609
+    },
+    {
+     "w": "and",
+     "start": 18.729,
+     "end": 18.849
+    },
+    {
+     "w": "a",
+     "start": 18.849,
+     "end": 18.949
+    },
+    {
+     "w": "man",
+     "start": 18.949,
+     "end": 19.129
+    },
+    {
+     "w": "strapped",
+     "start": 19.129,
+     "end": 19.429
+    },
+    {
+     "w": "to",
+     "start": 19.429,
+     "end": 19.689
+    },
+    {
+     "w": "it.",
+     "start": 19.689,
+     "end": 19.849
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "scene": "snatch",
+   "text": "A plane swoops in low, hooks the rope, and yanks him into the sky.",
+   "start": 20.148,
+   "end": 23.74,
+   "words": [
+    {
+     "w": "A",
+     "start": 20.148,
+     "end": 20.288
+    },
+    {
+     "w": "plane",
+     "start": 20.288,
+     "end": 20.528
+    },
+    {
+     "w": "swoops",
+     "start": 20.528,
+     "end": 20.928
+    },
+    {
+     "w": "in",
+     "start": 20.928,
+     "end": 21.088
+    },
+    {
+     "w": "low,",
+     "start": 21.088,
+     "end": 21.388
+    },
+    {
+     "w": "hooks",
+     "start": 21.708,
+     "end": 21.928
+    },
+    {
+     "w": "the",
+     "start": 21.928,
+     "end": 22.108
+    },
+    {
+     "w": "rope,",
+     "start": 22.108,
+     "end": 22.348
+    },
+    {
+     "w": "and",
+     "start": 22.528,
+     "end": 22.608
+    },
+    {
+     "w": "yanks",
+     "start": 22.608,
+     "end": 22.868
+    },
+    {
+     "w": "him",
+     "start": 22.868,
+     "end": 23.008
+    },
+    {
+     "w": "into",
+     "start": 23.008,
+     "end": 23.188
+    },
+    {
+     "w": "the",
+     "start": 23.188,
+     "end": 23.288
+    },
+    {
+     "w": "sky.",
+     "start": 23.288,
+     "end": 23.508
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "scene": "crew",
+   "text": "In the back, two young CIA officers, John Downey and Richard Fecteau, wait to reel him in.",
+   "start": 24.04,
+   "end": 29.51,
+   "words": [
+    {
+     "w": "In",
+     "start": 24.04,
+     "end": 24.14
+    },
+    {
+     "w": "the",
+     "start": 24.14,
+     "end": 24.24
+    },
+    {
+     "w": "back,",
+     "start": 24.24,
+     "end": 24.5
+    },
+    {
+     "w": "two",
+     "start": 24.74,
+     "end": 24.82
+    },
+    {
+     "w": "young",
+     "start": 24.82,
+     "end": 25.02
+    },
+    {
+     "w": "CIA",
+     "start": 25.02,
+     "end": 25.56
+    },
+    {
+     "w": "officers,",
+     "start": 25.56,
+     "end": 26.04
+    },
+    {
+     "w": "John",
+     "start": 26.76,
+     "end": 26.82
+    },
+    {
+     "w": "Downey",
+     "start": 26.82,
+     "end": 27.24
+    },
+    {
+     "w": "and",
+     "start": 27.24,
+     "end": 27.42
+    },
+    {
+     "w": "Richard",
+     "start": 27.42,
+     "end": 27.7
+    },
+    {
+     "w": "Fecteau,",
+     "start": 27.7,
+     "end": 28.18
+    },
+    {
+     "w": "wait",
+     "start": 28.46,
+     "end": 28.72
+    },
+    {
+     "w": "to",
+     "start": 28.72,
+     "end": 28.9
+    },
+    {
+     "w": "reel",
+     "start": 28.9,
+     "end": 29.04
+    },
+    {
+     "w": "him",
+     "start": 29.04,
+     "end": 29.22
+    },
+    {
+     "w": "in.",
+     "start": 29.22,
+     "end": 29.4
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "scene": "trap",
+   "text": "Midnight. A bright moon. The plane slows almost to a stall.",
+   "start": 29.96,
+   "end": 33.088,
+   "words": [
+    {
+     "w": "Midnight.",
+     "start": 29.96,
+     "end": 30.3
+    },
+    {
+     "w": "A",
+     "start": 30.52,
+     "end": 30.58
+    },
+    {
+     "w": "bright",
+     "start": 30.58,
+     "end": 30.78
+    },
+    {
+     "w": "moon.",
+     "start": 30.78,
+     "end": 31.06
+    },
+    {
+     "w": "The",
+     "start": 31.48,
+     "end": 31.56
+    },
+    {
+     "w": "plane",
+     "start": 31.56,
+     "end": 31.76
+    },
+    {
+     "w": "slows",
+     "start": 31.76,
+     "end": 32.06
+    },
+    {
+     "w": "almost",
+     "start": 32.06,
+     "end": 32.44
+    },
+    {
+     "w": "to",
+     "start": 32.44,
+     "end": 32.66
+    },
+    {
+     "w": "a",
+     "start": 32.66,
+     "end": 32.74
+    },
+    {
+     "w": "stall.",
+     "start": 32.74,
+     "end": 32.9
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "scene": "trap",
+   "text": "Then, white sheets fly off the snow. Under them, two anti-aircraft guns.",
+   "start": 33.338,
+   "end": 37.591,
+   "words": [
+    {
+     "w": "Then,",
+     "start": 33.338,
+     "end": 33.538
+    },
+    {
+     "w": "white",
+     "start": 33.538,
+     "end": 33.818
+    },
+    {
+     "w": "sheets",
+     "start": 33.818,
+     "end": 34.178
+    },
+    {
+     "w": "fly",
+     "start": 34.178,
+     "end": 34.418
+    },
+    {
+     "w": "off",
+     "start": 34.418,
+     "end": 34.618
+    },
+    {
+     "w": "the",
+     "start": 34.618,
+     "end": 34.758
+    },
+    {
+     "w": "snow.",
+     "start": 34.758,
+     "end": 35.018
+    },
+    {
+     "w": "Under",
+     "start": 35.438,
+     "end": 35.718
+    },
+    {
+     "w": "them,",
+     "start": 35.718,
+     "end": 35.978
+    },
+    {
+     "w": "two",
+     "start": 36.198,
+     "end": 36.318
+    },
+    {
+     "w": "anti-aircraft",
+     "start": 36.318,
+     "end": 37.018
+    },
+    {
+     "w": "guns.",
+     "start": 37.018,
+     "end": 37.358
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "scene": "reveal",
+   "text": "The team had already been captured. The call for help was bait.",
+   "start": 38.341,
+   "end": 41.57,
+   "words": [
+    {
+     "w": "The",
+     "start": 38.341,
+     "end": 38.461
+    },
+    {
+     "w": "team",
+     "start": 38.461,
+     "end": 38.721
+    },
+    {
+     "w": "had",
+     "start": 38.721,
+     "end": 38.881
+    },
+    {
+     "w": "already",
+     "start": 38.881,
+     "end": 39.121
+    },
+    {
+     "w": "been",
+     "start": 39.121,
+     "end": 39.321
+    },
+    {
+     "w": "captured.",
+     "start": 39.321,
+     "end": 39.741
+    },
+    {
+     "w": "The",
+     "start": 40.221,
+     "end": 40.301
+    },
+    {
+     "w": "call",
+     "start": 40.301,
+     "end": 40.481
+    },
+    {
+     "w": "for",
+     "start": 40.481,
+     "end": 40.681
+    },
+    {
+     "w": "help",
+     "start": 40.681,
+     "end": 40.901
+    },
+    {
+     "w": "was",
+     "start": 40.901,
+     "end": 41.121
+    },
+    {
+     "w": "bait.",
+     "start": 41.121,
+     "end": 41.321
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "scene": "reveal",
+   "text": "Both pilots died. Downey and Fecteau were taken alive.",
+   "start": 41.87,
+   "end": 45.103,
+   "words": [
+    {
+     "w": "Both",
+     "start": 41.87,
+     "end": 42.07
+    },
+    {
+     "w": "pilots",
+     "start": 42.07,
+     "end": 42.49
+    },
+    {
+     "w": "died.",
+     "start": 42.49,
+     "end": 42.91
+    },
+    {
+     "w": "Downey",
+     "start": 43.47,
+     "end": 43.61
+    },
+    {
+     "w": "and",
+     "start": 43.61,
+     "end": 43.75
+    },
+    {
+     "w": "Fecteau",
+     "start": 43.75,
+     "end": 44.09
+    },
+    {
+     "w": "were",
+     "start": 44.09,
+     "end": 44.23
+    },
+    {
+     "w": "taken",
+     "start": 44.23,
+     "end": 44.47
+    },
+    {
+     "w": "alive.",
+     "start": 44.47,
+     "end": 44.87
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "scene": "lie",
+   "text": "America said they were army civilians, lost at sea. For twenty years, it never said CIA.",
+   "start": 45.553,
+   "end": 51.052,
+   "words": [
+    {
+     "w": "America",
+     "start": 45.553,
+     "end": 45.893
+    },
+    {
+     "w": "said",
+     "start": 45.893,
+     "end": 46.173
+    },
+    {
+     "w": "they",
+     "start": 46.173,
+     "end": 46.313
+    },
+    {
+     "w": "were",
+     "start": 46.313,
+     "end": 46.453
+    },
+    {
+     "w": "army",
+     "start": 46.453,
+     "end": 46.733
+    },
+    {
+     "w": "civilians,",
+     "start": 46.733,
+     "end": 47.213
+    },
+    {
+     "w": "lost",
+     "start": 47.613,
+     "end": 47.813
+    },
+    {
+     "w": "at",
+     "start": 47.813,
+     "end": 48.053
+    },
+    {
+     "w": "sea.",
+     "start": 48.053,
+     "end": 48.293
+    },
+    {
+     "w": "For",
+     "start": 48.893,
+     "end": 48.993
+    },
+    {
+     "w": "twenty",
+     "start": 48.993,
+     "end": 49.233
+    },
+    {
+     "w": "years,",
+     "start": 49.233,
+     "end": 49.613
+    },
+    {
+     "w": "it",
+     "start": 49.793,
+     "end": 49.873
+    },
+    {
+     "w": "never",
+     "start": 49.873,
+     "end": 50.093
+    },
+    {
+     "w": "said",
+     "start": 50.093,
+     "end": 50.353
+    },
+    {
+     "w": "CIA.",
+     "start": 50.353,
+     "end": 50.693
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "scene": "prison",
+   "text": "Asked to name his CIA classmates, Fecteau gave them his college football team.",
+   "start": 51.452,
+   "end": 55.843,
+   "words": [
+    {
+     "w": "Asked",
+     "start": 51.452,
+     "end": 51.672
+    },
+    {
+     "w": "to",
+     "start": 51.672,
+     "end": 51.852
+    },
+    {
+     "w": "name",
+     "start": 51.852,
+     "end": 52.032
+    },
+    {
+     "w": "his",
+     "start": 52.032,
+     "end": 52.192
+    },
+    {
+     "w": "CIA",
+     "start": 52.192,
+     "end": 52.672
+    },
+    {
+     "w": "classmates,",
+     "start": 52.672,
+     "end": 53.292
+    },
+    {
+     "w": "Fecteau",
+     "start": 53.872,
+     "end": 54.132
+    },
+    {
+     "w": "gave",
+     "start": 54.132,
+     "end": 54.312
+    },
+    {
+     "w": "them",
+     "start": 54.312,
+     "end": 54.492
+    },
+    {
+     "w": "his",
+     "start": 54.492,
+     "end": 54.652
+    },
+    {
+     "w": "college",
+     "start": 54.652,
+     "end": 54.972
+    },
+    {
+     "w": "football",
+     "start": 54.972,
+     "end": 55.332
+    },
+    {
+     "w": "team.",
+     "start": 55.332,
+     "end": 55.712
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "scene": "release",
+   "text": "Fecteau walked free in 1971. Downey came home only after Nixon admitted the truth.",
+   "start": 56.293,
+   "end": 61.882,
+   "words": [
+    {
+     "w": "Fecteau",
+     "start": 56.293,
+     "end": 56.733
+    },
+    {
+     "w": "walked",
+     "start": 56.733,
+     "end": 56.973
+    },
+    {
+     "w": "free",
+     "start": 56.973,
+     "end": 57.293
+    },
+    {
+     "w": "in",
+     "start": 57.293,
+     "end": 57.513
+    },
+    {
+     "w": "1971.",
+     "start": 57.513,
+     "end": 58.373
+    },
+    {
+     "w": "Downey",
+     "start": 59.193,
+     "end": 59.393
+    },
+    {
+     "w": "came",
+     "start": 59.393,
+     "end": 59.533
+    },
+    {
+     "w": "home",
+     "start": 59.533,
+     "end": 59.853
+    },
+    {
+     "w": "only",
+     "start": 59.853,
+     "end": 60.253
+    },
+    {
+     "w": "after",
+     "start": 60.253,
+     "end": 60.613
+    },
+    {
+     "w": "Nixon",
+     "start": 60.613,
+     "end": 60.913
+    },
+    {
+     "w": "admitted",
+     "start": 60.913,
+     "end": 61.333
+    },
+    {
+     "w": "the",
+     "start": 61.333,
+     "end": 61.493
+    },
+    {
+     "w": "truth.",
+     "start": 61.493,
+     "end": 61.693
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "scene": "ending",
+   "text": "Downey became a judge. And he married a woman born in Manchuria, near the field where his plane went down.",
+   "start": 62.332,
+   "end": 68.311,
+   "words": [
+    {
+     "w": "Downey",
+     "start": 62.332,
+     "end": 62.692
+    },
+    {
+     "w": "became",
+     "start": 62.692,
+     "end": 63.012
+    },
+    {
+     "w": "a",
+     "start": 63.012,
+     "end": 63.212
+    },
+    {
+     "w": "judge.",
+     "start": 63.212,
+     "end": 63.552
+    },
+    {
+     "w": "And",
+     "start": 64.132,
+     "end": 64.192
+    },
+    {
+     "w": "he",
+     "start": 64.192,
+     "end": 64.312
+    },
+    {
+     "w": "married",
+     "start": 64.312,
+     "end": 64.572
+    },
+    {
+     "w": "a",
+     "start": 64.572,
+     "end": 64.752
+    },
+    {
+     "w": "woman",
+     "start": 64.752,
+     "end": 64.992
+    },
+    {
+     "w": "born",
+     "start": 64.992,
+     "end": 65.332
+    },
+    {
+     "w": "in",
+     "start": 65.332,
+     "end": 65.572
+    },
+    {
+     "w": "Manchuria,",
+     "start": 65.572,
+     "end": 66.072
+    },
+    {
+     "w": "near",
+     "start": 66.072,
+     "end": 66.552
+    },
+    {
+     "w": "the",
+     "start": 66.552,
+     "end": 66.732
+    },
+    {
+     "w": "field",
+     "start": 66.732,
+     "end": 66.992
+    },
+    {
+     "w": "where",
+     "start": 66.992,
+     "end": 67.212
+    },
+    {
+     "w": "his",
+     "start": 67.212,
+     "end": 67.352
+    },
+    {
+     "w": "plane",
+     "start": 67.352,
+     "end": 67.592
+    },
+    {
+     "w": "went",
+     "start": 67.592,
+     "end": 67.872
+    },
+    {
+     "w": "down.",
+     "start": 67.872,
+     "end": 68.132
+    }
+   ]
+  }
+ ]
+}
