@@ -1,0 +1,16 @@
+{
+  "name": "pickup-successful",
+  "private": true,
+  "type": "module",
+  "description": "Procedural documentary short: the 1952 Downey-Fecteau snatch pickup in Manchuria.",
+  "scripts": {
+    "build": "esbuild src/main.ts --bundle --format=esm --target=es2022 --outfile=dist/bundle.js --loader:.glsl=text",
+    "render": "node engine/render.mjs"
+  },
+  "dependencies": {
+    "@types/three": "^0.186.0",
+    "esbuild": "^0.28.2",
+    "puppeteer-core": "^25.16.0",
+    "three": "^0.186.1"
+  }
+}
