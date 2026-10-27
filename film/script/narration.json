@@ -1,0 +1,22 @@
+{
+  "voice": "af_heart",
+  "speed": 1.0,
+  "beats": [
+    {"id": "b01", "scene": "hook",    "text": "November, 1952. A C.I.A. radio picks up a message from deep inside China.", "gap": 0.35},
+    {"id": "b02", "scene": "hook",    "text": "The pickup worked.", "gap": 0.55},
+    {"id": "b03", "scene": "hook",    "text": "It was a lie.", "gap": 0.7},
+    {"id": "b04", "scene": "setup",   "text": "That summer, the C.I.A. had dropped a spy team into Manchuria. Now, one man had to come out.", "gap": 0.4},
+    {"id": "b05", "scene": "snatch",  "text": "There was no runway. Just two poles in the snow, a rope between them, and a man strapped to it.", "gap": 0.25},
+    {"id": "b06", "scene": "snatch",  "text": "A plane swoops in low, hooks the rope, and yanks him into the sky.", "gap": 0.35},
+    {"id": "b07", "scene": "crew",    "text": "In the back, two young C.I.A. officers, John Downey and Richard Fecteau, wait to reel him in.", "gap": 0.5},
+    {"id": "b08", "scene": "trap",    "text": "Midnight. A bright moon. The plane slows almost to a stall.", "gap": 0.3},
+    {"id": "b09", "scene": "trap",    "text": "Then, white sheets fly off the snow. Under them, two anti-aircraft guns.", "gap": 0.8},
+    {"id": "b10", "scene": "reveal",  "text": "The team had already been captured. The call for help was bait.", "gap": 0.35},
+    {"id": "b11", "scene": "reveal",  "text": "Both pilots died. Downey and Fecteau were taken alive.", "gap": 0.5},
+    {"id": "b12", "scene": "lie",     "text": "America said they were army civilians, lost at sea. For twenty years, it never said C.I.A.", "gap": 0.45},
+    {"id": "b13", "scene": "prison",  "text": "Asked for the names of his C.I.A. classmates, Fecteau gave them his college football team.", "gap": 0.5},
+    {"id": "b14", "scene": "release", "text": "Fecteau walked free in 1971. Downey, in 1973, after Nixon finally admitted the truth.", "gap": 0.5},
+    {"id": "b15", "scene": "ending",  "text": "Downey became a judge. And he married a woman born in Manchuria, near the field where his plane went down.", "gap": 0.0}
+  ],
+  "pronounce": {"Fecteau": "Fecktoe", "1952": "nineteen fifty-two", "1971": "nineteen seventy-one", "1973": "nineteen seventy-three"}
+}
