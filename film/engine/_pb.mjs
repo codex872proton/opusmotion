@@ -1,0 +1,5 @@
+import puppeteer from 'puppeteer-core';
+const V={sw:['--enable-unsafe-swiftshader','--use-angle=swiftshader'], sw2d:['--enable-unsafe-swiftshader','--use-angle=swiftshader','--disable-accelerated-2d-canvas'], egl:['--use-gl=angle','--use-angle=gl-egl','--ignore-gpu-blocklist','--disable-accelerated-2d-canvas'], vkn:['--use-angle=vulkan','--use-vulkan=native','--ignore-gpu-blocklist','--enable-features=Vulkan','--disable-accelerated-2d-canvas']};
+for (const [k,a] of Object.entries(V)) { try { const b=await puppeteer.launch({executablePath:'/usr/local/bin/google-chrome',headless:true,args:['--no-sandbox','--allow-file-access-from-files',...a],protocolTimeout:60000});
+ const p=await b.newPage(); await p.goto('file:///tmp/bench/passbench.html'); const r=await p.evaluate(()=>{const gl=document.getElementById('c').getContext('webgl2'); const dbg=gl.getExtension('WEBGL_debug_renderer_info'); return {r:gl.getParameter(dbg.UNMASKED_RENDERER_WEBGL), u8:window.bench('u8'), f16:window.bench('f16'), up:window.upload()};});
+ console.log(k, JSON.stringify(r)); await b.close(); } catch(e) { console.log(k,'ERR',String(e).slice(0,150)); } }
