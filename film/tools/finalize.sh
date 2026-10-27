@@ -10,7 +10,7 @@ I=$(ffmpeg -hide_banner -i mix.wav -af ebur128 -f null - 2>&1 | grep -E "^\s+I:"
 G=$(python3 -c "print(round(-16.0 - ($I), 2))")
 echo "mix I=$I LUFS, gain $G dB"
 ffmpeg -y -loglevel error -i video.mp4 -i mix.wav -map 0:v -map 1:a -c:v copy \
-  -af "volume=${G}dB,alimiter=limit=0.89:attack=1:release=40:level=disabled" -c:a aac -b:a 256k -ar 48000 \
+  -af "volume=${G}dB,alimiter=limit=0.74:attack=1:release=40:level=disabled" -c:a aac -b:a 256k -ar 48000 \
   -movflags +faststart -shortest "$OUT"
 ffprobe -v error -show_entries format=duration,size:stream=codec_name,width,height,r_frame_rate,nb_frames,sample_rate,channels -of compact "$OUT"
 ffmpeg -hide_banner -i "$OUT" -map 0:a -af ebur128=peak=true -f null - 2>&1 | grep -E "^\s+(I|LRA|Peak):"

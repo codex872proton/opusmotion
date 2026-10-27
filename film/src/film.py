@@ -442,12 +442,20 @@ def shot_launch(t, R, F):
             age = t - tb
             ov.drawCircle(px, py, 12 + age * 70, paint((150, 158, 166), 0.16 * math.exp(-age * 1.4), blur=8 + age * 30))
     glow = sstep(t, sep + 0.2, sep + 0.7)
-    S.draw_d21_side(ov, sx(d_x), sy(d_alt), ds, rot=d_rot, glow=glow, em=em, hatch_on=False)
+    # push in on the drone once it levels off at 90,000 ft
+    Z = 1 + 1.25 * ease_io(lin(t, 25.25, 26.5))
+    zx, zy = sx(d_x) + ds * 0.5, sy(d_alt)
+    for cv in (ov, em):
+        cv.save(); cv.translate(zx, zy); cv.scale(Z, Z); cv.translate(-zx, -zy)
     if glow > 0:
         ca, sa = math.cos(d_rot), math.sin(d_rot)
         nx, ny = sx(d_x) - 0.012 * ds * ca, sy(d_alt) - 0.012 * ds * sa
-        em.drawLine(nx, ny, nx - 150 * glow, ny, paint((255, 150, 70), 0.55 * glow, stroke=9, blur=8))
-    R.place(lMach, sx(d_x) + ds * 0.5, sy(d_alt) - 90, align="center")
+        em.drawLine(nx, ny, nx - 150 * glow, ny, paint((255, 150, 70), 0.5 * glow, stroke=8, blur=8))
+        ov.drawPath(S.xf(S.d21_side()["body"], sx(d_x), sy(d_alt), ds, rot=d_rot), paint(ICE, 0.35 * glow, stroke=1.2 / Z))
+    S.draw_d21_side(ov, sx(d_x), sy(d_alt), ds, rot=d_rot, glow=glow, em=em, hatch_on=False)
+    for cv in (ov, em):
+        cv.restore()
+    R.place(lMach, zx, zy - 60 * Z - 20, align="center")
     if t > 26.7:
         k = sstep(t, 26.8, 27.8)
         rng = random.Random(5)
@@ -507,7 +515,7 @@ def shot_route(t, R, F):
     guam = M.project(cam, 144.8, 13.4, exag=exag)[0]
     ov.drawCircle(guam[0], guam[1], 7, paint(BONE, 0.9 * dim))
     ov.drawCircle(guam[0], guam[1], 14, paint(BONE, 0.4 * dim, stroke=1.5))
-    R.place(lGuam, guam[0] + 24, guam[1] + 8)
+    R.place(lGuam, guam[0] - 26 - lGuam.width, guam[1] + 8)
     if bk > 0:
         lp = poly(gm[:, :2]); lp = trim(lp, 0, bk)
         glow_stroke(ov, lp, BONE, 2.0, a=0.7 * dim, glow=6, ga=0.3, dash=[12, 10])
@@ -812,8 +820,8 @@ class Renderer:
             (13.9, (107.0, 33.0, 3800, 26, 0)),
             (14.6, (110.0, 32.0, 2300, 14, 0))])
         self.trk_route = Track([
-            (27.8, (133.0, 21.0, 2900, 16, -6)),
-            (28.9, (127.0, 25.0, 3500, 18, -4)),
+            (27.8, (136.0, 20.0, 2900, 16, -6)),
+            (28.9, (129.5, 24.5, 3500, 18, -4)),
             (30.9, (106.0, 33.0, 4300, 20, 0)),
             (31.7, (103.0, 32.5, 4400, 20, 0)),
             (33.5, (113.0, 24.0, 3500, 18, 0)),
